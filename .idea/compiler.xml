@@ -2,6 +2,10 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel target="1.8">
+      <module name="Surf.backend.commonMain" target="1.6" />
+      <module name="Surf.backend.commonTest" target="1.6" />
+      <module name="Surf.backend.jvmMain" target="1.6" />
+      <module name="Surf.backend.jvmTest" target="1.6" />
       <module name="Surf.shared.commonMain" target="1.6" />
       <module name="Surf.shared.commonTest" target="1.6" />
       <module name="Surf.shared.jvmMain" target="1.6" />
